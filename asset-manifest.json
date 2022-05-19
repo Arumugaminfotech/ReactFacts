@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arumugaminfotech/ReactFacts.git/static/css/main.526113d7.css",
+    "main.js": "/Arumugaminfotech/ReactFacts.git/static/js/main.3bbf95ee.js",
+    "static/js/787.90aaa522.chunk.js": "/Arumugaminfotech/ReactFacts.git/static/js/787.90aaa522.chunk.js",
+    "index.html": "/Arumugaminfotech/ReactFacts.git/index.html",
+    "main.526113d7.css.map": "/Arumugaminfotech/ReactFacts.git/static/css/main.526113d7.css.map",
+    "main.3bbf95ee.js.map": "/Arumugaminfotech/ReactFacts.git/static/js/main.3bbf95ee.js.map",
+    "787.90aaa522.chunk.js.map": "/Arumugaminfotech/ReactFacts.git/static/js/787.90aaa522.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526113d7.css",
+    "static/js/main.3bbf95ee.js"
+  ]
+}
